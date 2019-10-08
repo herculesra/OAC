@@ -1,0 +1,1 @@
+# Repositório dedicado às práticas de LOAC e exercícios de OAC referentes ao período 2019.1@UFCG
